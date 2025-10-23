@@ -2,7 +2,7 @@
 
 Welkom bij mijn wiki over league of legends
 een team based moba game
-dit gaat problemen brengen
+de objective van de game is om de enemy base (nexus) te breken
 
 ## 📄 Inhoud
 - [Objectives](pages/Objectives.md)
