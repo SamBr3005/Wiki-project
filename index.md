@@ -1,4 +1,9 @@
-# League of legends
+# League of Legends
 
-League of legends is een team based moba game.
-de goal is om de enemy base te breken en zo de game te winnen
+Welkom bij mijn wiki over league of legends
+een team based moba game
+
+## 📄 Inhoud
+- [Objectives](pages/Objectives.md)
+- [Roles](pages/roles.md)
+- [Lanes](pages/lanes.md)
